@@ -13,7 +13,7 @@ First of all take a look at the [Example Project](Example/Classes/ExampleViewCon
 ``` objc
 //import the header
 #import "CJACracked.h"
-``
+```
 
 ``` objc
 CJACracked *cracked = [CJACracked new];
